@@ -35,6 +35,8 @@ print('Number of words: ',num_words)
 ```
 
 ### OUTPUT:
+![image](https://github.com/Ragu-123/Word-count/assets/113915622/4aef2921-ea4e-41b7-a964-cca36c75af2c)
+
 
 
 
